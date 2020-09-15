@@ -1,4 +1,4 @@
-[![scorpion.io](https://raw.githubusercontent.com/brettwilcox/brettwilcox/master/docs/images/scorpion.png)][link1] CLI
+<p align="center"><img alt="Meta Logo" src="https://raw.githubusercontent.com/brettwilcox/brettwilcox/master/docs/images/scorpion.png" /></p>
 
 ![Rust](https://github.com/scorpion/cli/workflows/Rust/badge.svg)
 
