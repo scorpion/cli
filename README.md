@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/brettwilcox/brettwilcox/master/docs/images/scorpion.svg" alt="Scorpion Logo" align="right" height="30px"/>
+<img src="https://raw.githubusercontent.com/brettwilcox/brettwilcox/master/docs/images/scorpion.svg" alt="Scorpion Logo" align="right" height="50px"/>
 
 # scorpion cli
 
