@@ -1,4 +1,6 @@
-<p align="center"><img alt="Meta Logo" src="https://raw.githubusercontent.com/brettwilcox/brettwilcox/master/docs/images/scorpion.png" /></p>
+<img src="https://raw.githubusercontent.com/brettwilcox/brettwilcox/master/docs/images/scorpion.png" alt="Scorpion Logo" align="right"/>
+
+# scorpion cli
 
 ![Crates.io](https://img.shields.io/crates/v/scorpion) ![Rust](https://github.com/scorpion/cli/workflows/Rust/badge.svg)
 
