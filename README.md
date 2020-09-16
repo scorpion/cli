@@ -1,6 +1,6 @@
 <p align="center"><img alt="Meta Logo" src="https://raw.githubusercontent.com/brettwilcox/brettwilcox/master/docs/images/scorpion.png" /></p>
 
-![Rust](https://github.com/scorpion/cli/workflows/Rust/badge.svg)
+![Crates.io](https://img.shields.io/crates/v/scorpion) ![Rust](https://github.com/scorpion/cli/workflows/Rust/badge.svg)
 
 Command line interface for the [scorpion.io](https://scorpion.io) project written in [rust](https://www.rust-lang.org).
 
