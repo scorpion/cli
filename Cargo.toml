@@ -4,7 +4,6 @@ version = "0.1.2"
 authors = ["Brett Wilcox <brett@scorpion.io>"]
 edition = "2018"
 description = "Command Line Interface for the scorpion.io project."
-license = "Apache-2.0"
 readme = "README.md"
 homepage = "https://scorpion.io"
 repository = "https://github.com/scorpion/cli/"
