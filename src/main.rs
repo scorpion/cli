@@ -4,5 +4,5 @@
 // Developed by the scorpion.io team (hello@scorpion.io)
 
 fn main() {
-    println!("The scorpion CLI is coming soon. Development made simple.");
+    println!("scorpion cli is coming soon.");
 }
