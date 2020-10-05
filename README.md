@@ -1,10 +1,16 @@
-<p align="center"><img alt="Meta Logo" src="https://raw.githubusercontent.com/brettwilcox/brettwilcox/master/docs/images/scorpion.png" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/brettwilcox/brettwilcox/main/docs/images/scorpion.svg" alt="Scorpion Logo" height="55px"/></p>
 
-![Crates.io](https://img.shields.io/crates/v/scorpion) ![Rust](https://github.com/scorpion/cli/workflows/Rust/badge.svg)
+![Rust](https://github.com/scorpion/cli/workflows/Rust/badge.svg)
 
-Command line interface for the [scorpion.io](https://scorpion.io) project written in [rust](https://www.rust-lang.org).
+![Crates.io](https://img.shields.io/crates/v/scorpion?logo=rust)
 
-Please see the [GitHub project page](https://github.com/scorpion/cli) for more information.
+![GitHub](https://img.shields.io/github/license/scorpion/cli?logo=apache&color=blue)
+
+Command line interface for the [scorpion.io](https://scorpion.io) project written in [Rust](https://www.rust-lang.org).
+
+``` bash
+cargo install scorpion
+```
 
 ## Rust
 
